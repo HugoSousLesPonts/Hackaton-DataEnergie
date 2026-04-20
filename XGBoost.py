@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 ╔══════════════════════════════════════════════════════════════════════╗
-║  Prévision de consommation électrique — XGBoost (30 min)           ║
-║  Équipe 4 — Horizon 14 jours (672 pas de 30 min)                  ║
+║  Prévision de consommation électrique — XGBoost (30 min)             ║
+║  Équipe 4 — Horizon 14 jours (672 pas de 30 min)                     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
 Pipeline complet :
