@@ -1,5 +1,9 @@
 # 🏆 CAN LLMs BEAT XGBOOST ?
+<<<<<<< HEAD
 ### Hackathon — Forecasting des Courbes de Chxarge ENEDIS
+=======
+### Hackathon — Forecasting des Courbes de Charge ENEDIS
+>>>>>>> 4f9d376e708724b333fe06c48db1f7a312efc7b7
 **École des Ponts ParisTech | Charif EL JAZOULI | 20 Avril 2026**
 
 ---
